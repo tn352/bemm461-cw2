@@ -18,3 +18,4 @@ dependencies:
     - python-dateutil==2.8.2
     - dash==2.9.1
     - dash_bootstrap_components==1.4.1
+    - jupyter-dash==0.4.2
